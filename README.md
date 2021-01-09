@@ -1,4 +1,36 @@
-### Hi, I'm Daniel
-A Full Stack developer, focusing on Discord Bots
+<h1 align="center">Hello there  👋</h1>
 
-[![Daniel Dimbarre Github Stats](https://github-readme-stats.vercel.app/api?username=danieldimbarre&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+##Hi, I'm Daniel
+
+- I’m currently learning Java Developement
+- I’m currently working in [VoxyHost](https://voxy.host)
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
+
+## Languages
+
+[![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
+[![Python](https://img.shields.io/badge/Python-3617FF?style=for-the-badge&logo=Python)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/CSharp-04B404?style=for-the-badge&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+![JavaScript](https://img.shields.io/badge/JavaScript-DF013A?style=for-the-badge&logo=javascript&logoColor=fff)
+
+## Front-end Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-DF013A?style=for-the-badge&logo=javascript&logoColor=fff)
+
+## Other Tools
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-FF5784?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-04B404?style=for-the-badge&logo=GitHub)](https://github.com)
+[![Git](https://img.shields.io/badge/Git-FA5858?style=for-the-badge&logo=Git)](https://git-scm.com/)
+[![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=fff)](https://www.nginx.com/)
+
+<br />
+<br />
+
+<a href="https://github.com/danieldimbarre/danieldimbarre">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danieldimbarre&theme=radical" />
+</a>
+<a href="https://github.com/danieldimbarre/danieldimbarre">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danieldimbarre&show_icons=true&theme=radical&line_height=27" alt="danieldimbarre" />
+</a>
