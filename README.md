@@ -2,7 +2,7 @@
 
 ## Hi, I'm Daniel
 
-- I’m currently learning Java Developement
+- I’m currently learning TypeScript Developement
 - I’m currently working in [Mariana](https://mariana.ml)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
