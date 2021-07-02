@@ -2,8 +2,8 @@
 
 ## Hi, I'm Daniel
 
-- I’m currently learning TypeScript Developement
-- I’m currently working in [Mariana](https://mariana.ml)
+- I’m currently learning Rust Developement
+- I’m currently working in ...
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
@@ -12,7 +12,8 @@
 [![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
 [![Python](https://img.shields.io/badge/Python-3617FF?style=for-the-badge&logo=Python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/CSharp-04B404?style=for-the-badge&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-![JavaScript](https://img.shields.io/badge/JavaScript-DF013A?style=for-the-badge&logo=javascript&logoColor=fff)
+[![JavaScript](https://img.shields.io/badge/JavaScript-DF013A?style=for-the-badge&logo=javascript&logoColor=fff)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 
 ## Front-end Development
 
