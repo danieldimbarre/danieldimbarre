@@ -2,7 +2,7 @@
 
 ## Hi, I'm Daniel
 
-- I’m currently learning Rust Developement
+- I’m currently learning C Developement
 - I’m currently working in ...
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
