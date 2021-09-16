@@ -3,7 +3,7 @@
 ## Hi, I'm Daniel
 
 - I’m currently learning C Developement
-- I’m currently working in ...
+- I’m currently working in [FantasyShield](https:://fantasyshield.com.br)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
