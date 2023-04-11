@@ -49,7 +49,9 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://pt.wikipedia.org/wiki/Shell_script)
 
-## Discord Profile
+
+<br />
+<br />
 
 <p align="center">
     <a href="https://discord.com/users/274290295288365056">
