@@ -1,5 +1,14 @@
 <h1 align="center">Hello there  👋</h1>
 
+<br />
+<br />
+
+<p align="center">
+    <a href="https://discord.com/users/274290295288365056">
+       <img title="DiscordProfile" alt="$Daniel" src="https://discord.c99.nl/widget/theme-4/274290295288365056.png"/>
+    </a>
+</p>
+
 ## Hi, I'm Daniel
 
 - I’m currently learning Golang Developement
@@ -48,16 +57,6 @@
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/pt-br/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://pt.wikipedia.org/wiki/Shell_script)
-
-
-<br />
-<br />
-
-<p align="center">
-    <a href="https://discord.com/users/274290295288365056">
-       <img title="DiscordProfile" alt="$Daniel" src="https://discord.c99.nl/widget/theme-4/274290295288365056.png"/>
-    </a>
-</p>
 
 
 <br />
