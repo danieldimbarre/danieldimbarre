@@ -61,10 +61,10 @@
 <br />
 <br />
 
-<!-- <a href="https://github.com/danieldimbarre/danieldimbarre">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danieldimbarre&theme=radical" />
-</a> -->
+## Stats
 
-<a href="https://github.com/danieldimbarre/danieldimbarre">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danieldimbarre&show_icons=true&theme=radical&line_height=27" alt="danieldimbarre" />
-</a>
+<p align="center">
+    <a href="https://github.com/danieldimbarre/danieldimbarre">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danieldimbarre&show_icons=true&theme=radical&line_height=27" alt="danieldimbarre" />
+    </a>
+</p>
