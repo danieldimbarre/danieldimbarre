@@ -53,15 +53,6 @@
 <br />
 
 <p align="center">
-    <a href="https://discord.com/users/274290295288365056">
-       <img title="DiscordProfile" alt="$Daniel" src="https://discord.c99.nl/widget/theme-4/274290295288365056.png"/>
-    </a>
-</p>
-
-<br />
-<br />
-
-<p align="center">
     <a href="https://github.com/danieldimbarre/danieldimbarre">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danieldimbarre&show_icons=true&theme=radical&line_height=27" alt="danieldimbarre" />
     </a>
