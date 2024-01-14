@@ -2,8 +2,9 @@
 
 ## Hi, I'm Daniel
 
-- I’m currently learning [...]
-- I’m currently working in [Spectrum RPG](https://spectrumrpg.com)
+- I'm currently studying at the Federal Technological University of Paraná (UTFPR)
+<!-- - I’m currently learning [...] -->
+<!-- - I’m currently working in [...] -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
