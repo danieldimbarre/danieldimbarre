@@ -57,8 +57,7 @@
 [![EspressIF](https://img.shields.io/badge/EspressIF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![Raspberry PI](https://img.shields.io/badge/Raspberry%20PI-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
 
-<br />
-<br />
+## Metrics
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -105,9 +104,3 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<p align="center">
-    <a href="https://github.com/danieldimbarre/danieldimbarre">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danieldimbarre&show_icons=true&theme=radical&line_height=27" alt="danieldimbarre" />
-    </a>
-</p>
