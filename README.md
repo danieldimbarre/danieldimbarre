@@ -60,6 +60,9 @@
 <br />
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
     <a href="https://github.com/danieldimbarre/danieldimbarre">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danieldimbarre&show_icons=true&theme=radical&line_height=27" alt="danieldimbarre" />
