@@ -19,3 +19,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### meta
           API_BASE_URL: https://wakapi.dev/api
+          SHOW_TITLE: false 
