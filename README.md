@@ -76,15 +76,13 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 50 mins        █████████████████████████   99.14 % 
-i3config                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 51 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Rust** 
